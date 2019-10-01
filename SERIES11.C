@@ -1,3 +1,12 @@
+/*Output of this code for n=4 will be:
+       *
+      ***
+     *****
+    *******
+     *****
+      ***
+       *
+*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
